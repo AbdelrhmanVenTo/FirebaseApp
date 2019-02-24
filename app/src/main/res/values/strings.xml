@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Typical Design Task</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name : </string>
+    <string name="email">Email : </string>
+    <string name="phone">Phone : </string>
+    <string name="address">Address :</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="loading">Loading</string>
+    <string name="success">Success</string>
+    <string name="userAdded">User Added Successfully</string>
+    <string name="ok">Ok</string>
+    <string name="fail">Fail</string>
+</resources>
